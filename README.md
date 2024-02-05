@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heycliford
 - 👀 I’m interested in learning languages, reading, coding, finance, etc.
 - 🌱 I’m currently learning python and college level subjects.
-- 💞️ I’m looking to collaborate on NOHTING!
-- 📫 How to reach me... don't.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 How to reach me... N/A.
 
 <!---
 heycliford/heycliford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
