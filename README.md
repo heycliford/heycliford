@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heycliford
 - 👀 I’m interested in learning languages, reading, coding, finance, etc.
-- 🌱 I’m currently learning python and college level subjects.
+- 🌱 I’m currently learning web development!
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me... N/A.
 
